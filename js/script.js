@@ -44,4 +44,4 @@ if (controllidue == "convalidatodue"){
 
 // Lista stesa
 listacognomi.sort();
-document.getElementById("testo").innerHTML = cognomi;
+document.getElementById("testo").innerHTML = listacognomi;
